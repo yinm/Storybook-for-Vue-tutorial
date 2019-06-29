@@ -12,6 +12,7 @@
         <h1 class="title-page">
           <span class="title-wrapper">Taskbox</span>
         </h1>
+        <task-list />
       </nav>
     </div>
   </div>
